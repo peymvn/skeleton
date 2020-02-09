@@ -77,3 +77,20 @@ cv.imshow("output", output)
 cv.waitKey()
 
 ```
+
+----------------
+
+Binary Image:
+
+![Binary Image](https://github.com/peymvn/skeleton/blob/master/example.jpg)
+
+
+Skeleton Result:
+
+![Skeleton Result](https://github.com/peymvn/skeleton/blob/master/skeleton.jpg)
+
+
+
+
+
+
