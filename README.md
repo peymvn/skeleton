@@ -58,7 +58,7 @@ cv::waitKey(0);
 
 **Python:**
 
-```pyhton
+```python
 input = cv.imread("example.jpg',cv.IMREAD_GRAYSCALE)
 
 input = cv.threshold(input, 128, 255, cv.THRESH_BINARY)
